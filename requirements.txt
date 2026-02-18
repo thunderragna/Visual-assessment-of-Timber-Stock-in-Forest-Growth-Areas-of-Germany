@@ -1,0 +1,8 @@
+geopandas
+shapely
+branca
+numpy
+plotly
+matplotlib
+folium
+json
