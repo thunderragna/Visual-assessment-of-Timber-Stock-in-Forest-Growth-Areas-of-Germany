@@ -1,2 +1,11 @@
-# Visual-assessment-of-Timber-Stock-in-Forest-Growth-Areas-of-Germany
-Exploring hover tools for graph and maps
+# Visual assessment of Timber Stock in Forest Growth Areas of Germany
+This project aims to provide a code for data with many categorical variables with geoinformation.
+The provided approach shows a option with a hovering function for bar charts 
+as well as mapping options and a tooltip hover option for an interactive map.
+
+
+## install the requirements
+Using pip 
+```
+pip install -r requirements.txt
+```
